@@ -7,7 +7,7 @@ Created users `sameer`, `masum` and `guest`, then a group called `Linux` with on
 
 Commands: `useradd`, `passwd`, `groupadd`, `gpasswd -M`, `cat /etc/passwd`, `grep Linux /etc/group`
 
-![Users and groups](Screenshot_2026-10-28_183827.png)
+![Users and groups]
 
 ## Part 2: Locked shared folder
 Created `/home/shared`, gave it to the group with `chown`, and set `chmod 770` so only the owner and the group can enter.
