@@ -16,15 +16,15 @@ Result: `sameer` (group member) could create a file. `guest` (outsider) got "can
 
 Commands: `mkdir`, `chown`, `chmod 770`, `ls -ld`, `su`, `touch`
 
-![Permission test](Screenshot_2026-10-28_184458.png)
+![Permission test]
 
 ## Part 3: Backup and restore
 Compressed the shared folder in two formats, then restored it to prove the backup works.
 
 Commands: `tar -czvf`, `zip -r`, `tar -xzvf`, `ls -lh`
 
-![Backup files](Screenshot_2026-10-28_185255.png)
-![Restore test](Screenshot_2026-10-28_185418.png)
+![Backup files]
+![Restore test]
 
 ## What I learned
 - `770` keeps outsiders out of a folder completely
